@@ -1,4 +1,4 @@
-## Dna to Protein
+## DNA to Protein
 
 this is a simple Python code to simulate DNA to Protein process:
 
